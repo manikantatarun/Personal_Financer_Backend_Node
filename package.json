@@ -1,0 +1,19 @@
+{
+  "name": "personal_finaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikantatarun/Personal_Financer_Backend_Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikantatarun/Personal_Financer_Backend_Node/issues"
+  },
+  "homepage": "https://github.com/manikantatarun/Personal_Financer_Backend_Node#readme"
+}
